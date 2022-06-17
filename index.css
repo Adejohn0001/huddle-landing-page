@@ -289,7 +289,7 @@ footer {
     margin-right: 4em;
 }
 
-@media(max-width: 376px) {
+@media(max-width: 375px) {
     header {
         background: linear-gradient(hsl(193, 100%, 96%, 0.7), hsl(193, 100%, 96%, 0.7)), url("bg-hero-mobile.svg");
         padding: 0 20px;
